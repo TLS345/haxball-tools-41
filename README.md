@@ -28,7 +28,7 @@ A simple and efficient mute system for **Haxball Headless** rooms.
 
 - Admins are protected from being muted.
 
--Private mute list display.
+- Private mute list display.
 
 - Clear all muted players with !unmute all.
 
