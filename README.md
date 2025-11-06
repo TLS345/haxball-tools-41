@@ -7,7 +7,7 @@ A simple and efficient mute system for **Haxball Headless** rooms.
 | Command | Description | Example |
 |----------|--------------|---------|
 | `!mute [minutes] #ID` | Mute a player for a certain time (default 3 min) | `!mute 5 #12` |
-| `!unmute [#ID | all]` | Unmute a player or clear the list | `!unmute #12` |
+| `!unmute  #ID/ALL ` | Unmute a player or clear the list | `!unmute #12` |
 | `!mutelist` | Show the current list of muted players | `!mutelist` |
 
 ---
